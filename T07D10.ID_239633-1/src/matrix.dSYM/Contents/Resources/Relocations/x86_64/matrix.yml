@@ -1,0 +1,15 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/silvagal/T07D10.ID_239633-1/src/matrix'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000036C0, symSize: 0x1E0 }
+  - { offsetInCU: 0x52, offset: 0x52, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000036C0, symSize: 0x1E0 }
+  - { offsetInCU: 0xDC, offset: 0xDC, size: 0x8, addend: 0x0, symName: _input_modes, symObjAddr: 0x1E0, symBinAddr: 0x1000038A0, symSize: 0xD0 }
+  - { offsetInCU: 0x112, offset: 0x112, size: 0x8, addend: 0x0, symName: _input, symObjAddr: 0x2B0, symBinAddr: 0x100003970, symSize: 0x70 }
+  - { offsetInCU: 0x156, offset: 0x156, size: 0x8, addend: 0x0, symName: _arr_static, symObjAddr: 0x320, symBinAddr: 0x1000039E0, symSize: 0xA0 }
+  - { offsetInCU: 0x1CE, offset: 0x1CE, size: 0x8, addend: 0x0, symName: _output_static, symObjAddr: 0x3C0, symBinAddr: 0x100003A80, symSize: 0xE0 }
+  - { offsetInCU: 0x246, offset: 0x246, size: 0x8, addend: 0x0, symName: _arr_dyn1, symObjAddr: 0x4A0, symBinAddr: 0x100003B60, symSize: 0xF0 }
+  - { offsetInCU: 0x2DA, offset: 0x2DA, size: 0x8, addend: 0x0, symName: _output, symObjAddr: 0x590, symBinAddr: 0x100003C50, symSize: 0xD0 }
+  - { offsetInCU: 0x352, offset: 0x352, size: 0x8, addend: 0x0, symName: _arr_dyn2, symObjAddr: 0x660, symBinAddr: 0x100003D20, symSize: 0x130 }
+  - { offsetInCU: 0x3F4, offset: 0x3F4, size: 0x8, addend: 0x0, symName: _arr_dyn3, symObjAddr: 0x790, symBinAddr: 0x100003E50, symSize: 0x110 }
+...
